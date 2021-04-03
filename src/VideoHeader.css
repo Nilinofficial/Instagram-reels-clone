@@ -1,0 +1,12 @@
+.VideoHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute; /* give width 100% else its gets fuckedup*/
+    width: 100%;
+    color: white;
+}
+
+.VideoHeader  * {
+    padding: 10px;
+}

@@ -1,0 +1,17 @@
+
+.videocard{
+    width: 100%;
+    height: 100%;
+    scroll-snap-align: start;
+    position: relative;
+    border: 1px solid black;
+}
+
+
+
+
+.reels__Player{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
